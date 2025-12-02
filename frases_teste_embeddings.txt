@@ -1,0 +1,100 @@
+London is the capital of the United Kingdom.
+The Amazon rainforest produces 20% of the world's oxygen.
+Mount Fuji is Japan's highest mountain.
+The Grand Canyon was carved by the Colorado River.
+Venice is built on more than 100 small islands.
+The Gobi Desert stretches across Mongolia and China.
+Rio de Janeiro hosted the 2016 Summer Olympics.
+The Dead Sea is the lowest point on Earth.
+Singapore is both a city and a country.
+The Yangtze is the longest river in Asia.
+Antarctica contains 70% of Earth's fresh water.
+Dubai has the world's tallest building.
+The Panama Canal connects two oceans.
+Stockholm is spread across 14 islands.
+Lake Baikal contains 20% of the world's unfrozen fresh water.
+The Serengeti hosts the great wildebeest migration.
+Machu Picchu sits at 2,430 meters above sea level.
+The Rhine River flows through six countries.
+Reykjavik is the northernmost capital city.
+The Mekong River is vital for Southeast Asian agriculture.
+Apple's market cap exceeded three trillion dollars.
+Warren Buffett recommends index fund investing.
+High inflation reduces bond purchasing power.
+The Federal Reserve raised interest rates again.
+Bitcoin reached a new all-time high last month.
+Passive income streams build long-term wealth.
+Stock buybacks increase earnings per share.
+Real estate provides both income and appreciation.
+The yield curve inversion signals potential recession.
+Compound interest is the eighth wonder of the world.
+Margin trading amplifies both gains and losses.
+Blue chip stocks offer stability during volatility.
+The S&P 500 returned 10% annually on average.
+Currency hedging protects international investments.
+Private equity funds target higher returns.
+Dividend aristocrats have raised payouts for decades.
+Options contracts expire on specific dates.
+Municipal bonds offer tax-free income.
+Venture capital fuels startup innovation.
+Asset allocation determines 90% of portfolio returns.
+Large language models learn patterns from text data.
+Computer vision enables autonomous vehicle navigation.
+Attention mechanisms revolutionized sequence modeling.
+Transfer learning reduces training time significantly.
+Neural networks approximate any continuous function.
+Backpropagation calculates gradients efficiently.
+Generative adversarial networks create realistic images.
+Natural language understanding improves chatbot responses.
+Deep learning requires significant computational resources.
+Recurrent networks process sequential information.
+Batch normalization stabilizes neural network training.
+Dropout prevents overfitting in deep networks.
+Word embeddings capture semantic relationships.
+Hyperparameter tuning optimizes model performance.
+Cross-validation ensures robust model evaluation.
+Feature engineering improves prediction accuracy.
+Ensemble methods combine multiple weak learners.
+Gradient descent minimizes the loss function.
+Activation functions introduce non-linearity.
+Tokenization splits text into meaningful units.
+I enjoy making fresh pasta from scratch on Sundays.
+My kids love when I prepare homemade chicken nuggets.
+We started a family tradition of Sunday brunch.
+I discovered my love for baking during quarantine.
+Nothing beats my mom's homemade tomato sauce.
+I meal prep every Sunday to save time during the week.
+My favorite comfort food is mac and cheese.
+I always add extra cheese to my homemade pizza.
+Cooking together has become our family bonding time.
+I finally mastered my grandmother's cookie recipe.
+We grow fresh herbs in our kitchen window.
+I prefer cooking at home over eating out.
+My morning routine includes making fresh coffee.
+I experiment with new recipes every weekend.
+Homemade soup warms the soul on cold days.
+I taught myself to make sushi at home.
+Our dinner parties always feature my signature dish.
+I find cooking to be incredibly relaxing after work.
+My secret ingredient is always a little extra garlic.
+We have meatless Mondays in our household.
+Blanching preserves the color of green vegetables.
+Reduction concentrates flavors in sauces.
+Julienne cuts create uniform thin strips.
+Basting keeps roasted meats moist during cooking.
+Folding incorporates air into delicate batters.
+Sautéing uses high heat and minimal fat.
+Poaching cooks food gently in liquid below boiling.
+Flambéing adds flavor and theatrical presentation.
+Chiffonade creates thin ribbons of leafy herbs.
+Clarifying butter removes milk solids for higher smoke point.
+Freezing ginger makes it easier to grate.
+Wooden spoons don't conduct heat like metal ones.
+Letting meat rest after cooking retains juices.
+Sharp knives are safer than dull ones.
+Bread crumbs absorb excess moisture in meatballs.
+Ice water stops the cooking process immediately.
+Vinegar removes stubborn stains from pots.
+Citrus zest adds bright flavor without liquid.
+Toasting spices releases their essential oils.
+Pasta water helps sauce adhere to noodles.
